@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CS372_Final.dir/main.cpp.o  -o CS372_Final 
