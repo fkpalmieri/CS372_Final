@@ -1,3 +1,4 @@
 CS 372 Final
 
-Implement a simple example of the design pattern "Proxy / Chain of Responsibility Principal"
+Implement a simple example of the Proxy design pattern
+Access a value of one class or struct through another
